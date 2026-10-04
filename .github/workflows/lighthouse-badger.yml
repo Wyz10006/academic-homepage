@@ -35,6 +35,8 @@ on:
 
 jobs:
   lighthouse-badger-easy:
+    # This badge publisher targets the upstream demo and requires its maintainer token.
+    if: github.repository == 'alshedivat/al-folio'
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:

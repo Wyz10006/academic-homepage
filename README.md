@@ -50,6 +50,6 @@ Write your article here in Markdown.
 
 ## 模板与维护
 
-本仓库不包含 al-folio 的演示文章和虚构个人资料。上游模板的 Integration tests 依赖这些演示页面，因此该工作流仅在上游模板仓库运行；本网站继续使用实际 Jekyll 构建、格式和链接检查。
+本仓库不包含 al-folio 的演示文章和虚构个人资料。上游模板的 Integration tests 依赖这些演示页面，Lighthouse Badger 使用上游演示站网址及维护者密钥，因此这两项工作流仅在上游模板仓库运行；本网站继续使用实际 Jekyll 构建、格式和链接检查。
 
 更多设置见 [自定义说明](docs/CUSTOMIZE.md) 和 [部署说明](docs/INSTALL.md)。模板许可证保留在 [LICENSE](LICENSE)。
