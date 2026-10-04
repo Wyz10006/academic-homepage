@@ -6,14 +6,14 @@
 
 ## 更新内容
 
-| 内容 | 编辑位置 |
-| --- | --- |
-| 姓名、网站描述 | `_config.yml` |
-| 个人介绍、研究方向、头像设置 | `_pages/about.md` |
-| GitHub、邮箱等社交链接 | `_data/socials.yml` |
-| 论文列表 | `_bibliography/papers.bib` |
-| 论文页说明 | `_pages/publications.md` |
-| 博客文章 | `_posts/YYYY-MM-DD-title.md` |
+| 内容                         | 编辑位置                     |
+| ---------------------------- | ---------------------------- |
+| 姓名、网站描述               | `_config.yml`                |
+| 个人介绍、研究方向、头像设置 | `_pages/about.md`            |
+| GitHub、邮箱等社交链接       | `_data/socials.yml`          |
+| 论文列表                     | `_bibliography/papers.bib`   |
+| 论文页说明                   | `_pages/publications.md`     |
+| 博客文章                     | `_posts/YYYY-MM-DD-title.md` |
 
 尚未填写的姓名、所属机构、照片和论文可按需补充。当前展示名为 Wyz10006。
 
