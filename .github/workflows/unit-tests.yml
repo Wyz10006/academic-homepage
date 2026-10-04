@@ -40,6 +40,8 @@ on:
 
 jobs:
   comments-integration-tests:
+    # Upstream feature tests require the demo posts removed from this personal site.
+    if: github.repository == 'alshedivat/al-folio'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
